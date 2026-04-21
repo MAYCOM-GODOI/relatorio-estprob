@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "MAYCOM CAMPOS GODOI"
+=======
+title: "Maycom Campos Godoi"
+>>>>>>> 4516b6b5739898e95e1a5ca2845836d5ea38be69
 image: "logo.png"
 links:
   - label: GitHub
@@ -11,5 +15,9 @@ links:
 output:
   postcards::jolla
 ---
+<<<<<<< HEAD
  
 teste 2 
+=======
+ teste 1
+>>>>>>> 4516b6b5739898e95e1a5ca2845836d5ea38be69
