@@ -31,7 +31,7 @@ Acesse: [Maycom Godoi](https://maycom-godoi.github.io/relatorio-estprob/){target
 
 # Página dos alunos da disciplina
 
-- Acesse: [Página dos alunos da disciplina Estatística e probabilidade](https://bendeivide.github.io/courses/estexp/estexp2025.1/#relat%C3%B3rio-dos-alunos){target="_blank"}
+- Acesse: [Página dos alunos da disciplina Estatística e probabilidade](https://bendeivide.github.io/courses/epaec/normal2026.1/#exerc_entregar){target="_blank"}
 
 # Visão geral sobre os relatórios {.tabset .tabset-fade}
 
