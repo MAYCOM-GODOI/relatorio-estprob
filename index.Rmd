@@ -1,5 +1,5 @@
 ---
-title: "Nome_Aluno(a)"
+title: "Maycom Campos Godoi"
 image: "logo.png"
 links:
   - label: GitHub
