@@ -1,17 +1,19 @@
 ---
-title: "Maycom"
-image: "logo.png"
+title: "Maycom Godoi"
+image: "fotoperfil.jpeg"
 links:
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/MAYCOM-GODOI?tab=repositories"
   - label: Email
-    url: "mailto:name@gmail.com"
+    url: "maycomcampos@aluno.ufsj.edu.br"
   - label: Relatórios
     url: "./relatorio/index.html"
 output:
   postcards::jolla
 ---
- 
-teste 1
+ Futuro Engenheiro de Telecomunicações apaixonado por conectar pessoas e tecnologias. 
+
+
+
 
 
